@@ -145,7 +145,7 @@
             "props": "piano",
             "songType": "sung/played live",
             "contact":   "Yu Wang ",
-            "email":   "Angelayuwang@hotmail.com"
+            "email":   "angelayuwang2@hotmail.com"
         },
 
         {
@@ -271,6 +271,18 @@
             "email":   " danbaker12002@yahoo.com",
             "props": "none",
             "teacher":   "Mr. Krygier"
+        },
+
+         {
+            "student":   "Sottile, Meltzer, Schwarz",
+            "teacher":   " Wheeler",
+            "actType":   "Singing",
+            "song":   "TBA",
+            "songType": "provided Fine Arts Connection",
+            "artist":   "various artists",
+            "props":   " TBA",
+            "contact":   "Margo Melzer",
+            "email":   "margocmelzer@gmail.com"
         },
 
     ]
