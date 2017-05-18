@@ -35,7 +35,7 @@
             "song":   "Lost Boys",
             "songType": "live instrumental",
             "props":   "Mic and Piano",
-            "email":   "jessedelstein@gmail.com and rachelamydavis@gmail.com",
+            "email":   "jessedelstein@gmail.com, rachelamydavis@gmail.com",
             "contact": "Rachel Davis, Jessica Edelstein"
         },
 
@@ -58,7 +58,7 @@
             "artist":   "Denzel",
             "songType":   "whole song-not karaoke",
             "props":   "Two microphones",
-            "email":   " neelusinha76@yahoo.com and aparna_chikoti@yahoo.com"
+            "email":   " neelusinha76@yahoo.com, aparna_chikoti@yahoo.com"
         },
 
         {
