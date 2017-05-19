@@ -50,7 +50,7 @@ var talentList = [
     },
 
     {
-        "student":   "Reya Sinha, Heba Imran, Anika Bijala & Irene Eldho",
+        "student":   "Reya Sinha, Anika Bijala",
         "teacher":   "Mr. Brennan, Mrs. Stephenson",
         "actType":   "Singing and Dancing",
         "song":   "Backstage",
