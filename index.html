@@ -11,15 +11,15 @@
     #student-list {}
     
     .actsList {
-        background-color: tomato;
+        background-color: #c03d55;
     }
     
     .talentItems {
         line-height: 24px;
-        background-color: papayawhip;
+        background-color: #ffe1b0;
         font-size: 18px;
         border-style: solid;
-        border-color: purple;
+        border-color: #320e27;
         border-size: 3px;
         display: block;
         min-width: 100%;
@@ -28,7 +28,7 @@
     
     .col-sm-1 {
         line-height: 24px;
-        background-color: tomato;
+        background-color: #c03d55;
         font-size: 18px;
         padding: 4px;
         margin: 4px;
@@ -36,9 +36,9 @@
     
     .row {
         border-style: solid;
-        border-color: purple;
+        border-color: #320e27;
         border-size: 3px;
-        background-color: tomato;
+        background-color: #c03d55;
         margin-bottom: 30px;
     }
     
@@ -50,20 +50,27 @@
     
     .jumbotron {
         border-style: solid;
-        border-color: purple;
+        border-color: #320e27;
         border-size: 6px;
-        background-color: tomato;
-        color: papayawhip;
+        background-color: #c03d55;
+        color: #ffe1b0;
         text-align: center;
+        margin-top:12px;
+    }
+
+    #year{
+
+
+        color:#7eb598;
     }
     
     body {
-        background-color: papayawhip;
-        color: purple;
+        background-color: #736E6E;
+        color: #320e27;
     }
     
     #email-list {
-        color: papayawhip;
+        color: #ffe1b0;
     }
     </style>
 </head>
@@ -71,7 +78,7 @@
 <body>
     <div class="container">
         <div class="jumbotron">
-            <h1>The William Mason Talent Show 2017</h1>
+            <h1>The William Mason Talent Show <span id="year">2017</span></h1>
         </div>
         <div class="row" id="actsList">
             <div class="col-md-12" id="student-list"></div>

@@ -4,13 +4,13 @@ var talentList = [
     {
         "student":   "The 3rd Grade Glee Club ",
         "email":   "mariella.trogani@montville.net",
-        "teacher": "Maria Trogani and Various Teachers",
+        "teacher": "Mariella Trogani and Various Teachers",
         "props": "none",
         "actType": "Choral",
         "songType": "self-provided track",
         "artist": "Allessia Cara",
         "song": "Scars to Your Beautiful",
-        "contact": "Maria Trogani"
+        "contact": "Mariella Trogani"
     },
 
     {
@@ -97,7 +97,7 @@ var talentList = [
 
     {
         "student":   "Dylan hunter",
-        "teacher": "Krygier",
+        "teacher": "Mr. Krygier",
         "actType":   "Playing Violin",
         "song":   " Star-Spangled Banner",
         "songType": "sung/played live",
@@ -154,7 +154,7 @@ var talentList = [
 
     {
         "student":   "Jordan Bergman & Paige Gille",
-        "teacher":   "Abruzzo",
+        "teacher":   "Mrs. Abruzzo",
         "actType":   "Piano and dance",
         "props": "piano and microphone",
         "song":   "Do-Re-Mi",
@@ -168,7 +168,7 @@ var talentList = [
         "teacher":   "Mrs. Abruzzo",
         "actType":   "Dance and Gymnastics",
         "song":   "That's What I Like (clean version)",
-        "artist":   " Bruno Mars",
+        "artist":   "Bruno Mars",
         "songType": "whole song-stop at 1:05",
         "props":   " Rolling chair",
         "email":   " meganfetters@yahoo.com, geralincastellano@gmail.com"
@@ -176,12 +176,12 @@ var talentList = [
 
 
     {
-        "student":   "Giada LoGalbo ",
+        "student":   "Giada LoGalbo",
         "email":   "scgmta@gmail.com",
         "teacher": "Mr. Wheeler",
         "props": "microphone",
         "actType": "Singing",
-        "songType": "karaoke track--only 'first verse'",
+        "songType": "karaoke track-Radio Mix-cut at 1:23",
         "artist": "Kelly Clarkson",
         "song": "Piece by Piece",
         "contact": "Teresa Amoia"
@@ -190,13 +190,13 @@ var talentList = [
 
     {
         "student":   "Corey Wang",
-        "teacher":   " Mr. Brennan",
+        "teacher":   "Mr. Brennan",
         "actType":   "Playing Piano",
         "props": "piano",
         "song":   "sonatina in G major",
         "songType": "sung/played live",
         "contact":   "David Wayne",
-        "email":   " Laura0@yahoo.com"
+        "email":   "Laura0@yahoo.com"
     },
 
     {
@@ -206,7 +206,7 @@ var talentList = [
         "song":   "Part of your World",
         "songType": "karaoke",
         "artist":   "The Little Mermaid",
-        "props":   "microphone and music stand",
+        "props":   "Microphone and music stand",
         "email":   "jimlongobardi@aol.com"
     },
 
@@ -218,14 +218,14 @@ var talentList = [
         "song":   "Oops I did it again",
         "songType": "karaoke",
         "contact":   "Allison",
-        "props": "mic and stand",
+        "props": "Mic and mic stand",
         "email":   " alcreeden@yahoo.com"
     },
 
 
     {
         "student":   "Sophia Istvan",
-        "teacher": "Mrs. McLaughlin/ Mrs. Amadeo",
+        "teacher": "Mrs. McLaughlin, Mrs. Amadeo",
         "actType": "Singing",
         "song":   "Fight Song",
         "songType": "karaoke",
@@ -252,7 +252,7 @@ var talentList = [
         "song":   " Space Unicorn",
         "artist": "Parry Grip",
         "songType": "karaoke",
-        "props":   " microphone stand",
+        "props":   "microphone stand",
         "email": "funduval@gmail.com"
     },
 
@@ -275,9 +275,9 @@ var talentList = [
         "actType":   "Playing Piano",
         "songType": "sung/played live",
         "song":   " Minuet In G",
-        "email":   " joanna@jhoward.us",
+        "email":   "joanna@jhoward.us",
         "props": "piano",
-        "teacher":   "Mrs. Wheeler",
+        "teacher":   "Mr. Wheeler",
     },
 
     {
@@ -286,7 +286,7 @@ var talentList = [
         "songType": "sung/played live",
         "song":   "William Tell Overture",
         "props": "piano",
-        "teacher":   "Mrs. Wheeler",
+        "teacher":   "Mr. Wheeler",
         "email":   "joanna@jhoward.us"
 
     },
@@ -299,8 +299,8 @@ var talentList = [
         "songType": "whole track w/vocals",
         "artist":   "FNAF sister location",
         "props":   " custom wig, masks, box",
-        "contact":   " Evelyn Harris",
-        "email":   " evelyn.jdtruckrepair@gmail.com"
+        "contact":   "Evelyn Heras",
+        "email":   "evelyn.jdtruckrepair@gmail.com"
     },
 
     
