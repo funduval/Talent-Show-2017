@@ -5,7 +5,7 @@ var talentList = [
         "student":   "The 3rd Grade Glee Club ",
         "email":   "mariella.trogani@montville.net",
         "teacher": "Mariella Trogani and Various Teachers",
-        "props": "none",
+        "props": "3 chairs on stage",
         "actType": "Choral",
         "songType": "self-provided track",
         "artist": "Allessia Cara",
@@ -176,7 +176,7 @@ var talentList = [
 
 
     {
-        "student":   "Giada LoGalbo",
+        "student":   "Giada Amoia",
         "email":   "scgmta@gmail.com",
         "teacher": "Mr. Wheeler",
         "props": "microphone",
