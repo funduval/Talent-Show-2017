@@ -38,9 +38,9 @@ var talentList = [
 
     {
         "student":   "Mateo Takahashi",
-        "teacher":   "Mr. Williams",
+        "teacher":   "Mrs. Williams",
         "song":   "Star Wars theme",
-        "props": "piano",
+        "props": "Piano",
         "song":   "Russian sailors dance",
         "songType": "sung/played live",
         "actType":   "Playing Piano",
@@ -49,6 +49,7 @@ var talentList = [
 
     {
         "student":   "Sofia Takahashi",
+        "teacher":   "Mrs. Oberlin",
         "song":   "Firefly",
         "song":   "Treble A",
         "props": "piano and mic",
@@ -142,7 +143,7 @@ var talentList = [
     },
     {
         "student":   "Jennavecia Simeone",
-        "teacher": "",
+        "teacher": "Mr. Wheeler",
         "actType":   "singing",
         "song":   " cheap thrills",
         "props": "Mic and stand",
