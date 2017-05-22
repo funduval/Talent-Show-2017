@@ -52,8 +52,7 @@ var talentList = [
         "student":   "Sofia Takahashi",
         "teacher":   "Mrs. Oberlin",
         "song":   "Firefly",
-        "song":   "Treble A",
-        "artist":"",
+        "artist":"Treble A",
         "props": "piano and mic",
         "songType": "sung/played live",
         "actType":   "Singing with Piano",
@@ -319,7 +318,7 @@ for (var i = 0; i < talentList.length; i++) {
 
 
 
-    text.append((i+1) + " - " + talentList[i].student.toUpperCase() + " - " + talentList[i].teacher + " - " + talentList[i].actType + " - " + talentList[i].song + " by " + talentList[i].artist);
+    text.append((i+1) + " - " + talentList[i].student.toUpperCase() + " - " + talentList[i].teacher + " - " + talentList[i].actType + " - " + talentList[i].song + " - " + talentList[i].artist);
 
 
 
