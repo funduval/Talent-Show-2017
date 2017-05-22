@@ -4,7 +4,7 @@ var talentList = [
     {
         "student":   "The 3rd Grade Glee Club ",
         "email":   "mariella.trogani@montville.net",
-        "teacher": "Mariella Trogani and Various Teachers",
+        "teacher": "Mariella Trogani and Various WM Teachers",
         "props": "3 chairs on stage",
         "actType": "Choral",
         "songType": "self-provided track",
@@ -41,8 +41,8 @@ var talentList = [
         "teacher":   "Mrs. Williams",
         "song":   "Star Wars theme",
         "props": "Piano",
-        "artist":"",
-        "song":   "Russian Sailor's dance",
+        "artist":"Gliere",
+        "song":   "Russian Sailor's Dance",
         "songType": "sung/played live",
         "actType":   "Playing Piano",
         "email":   "pastogirl@gmail.com"
@@ -89,9 +89,9 @@ var talentList = [
         "student":   "Chase Eagan",
         "teacher":   "Mr. Krygier",
         "actType":   "Playing Piano",
-        "song":   " The Spider Dance",
-        "artist":"",
-        "songType": "sung/played live",
+        "song":   "The Spider Dance",
+        "artist":"Undertale",
+        "songType": "played live",
         "props": "piano",
         "contact":   " Sue Eagan",
         "email":   " suekeagan@yahoo.com"
@@ -104,7 +104,7 @@ var talentList = [
         "teacher": "Mr. Krygier",
         "actType":   "Playing Violin",
         "song":   " Star-Spangled Banner",
-        "artist":"",
+        "artist": "Francis Scott Key",
         "songType": "sung/played live",
         "props":   " music stand",
         "contact":   "Darlene hunter",
@@ -126,11 +126,11 @@ var talentList = [
     {
         "student":   "Vivian Wei",
         "teacher":   "Mrs. Auten",
-        "song":   "A Piano Song",
+        "song":   "Song TBA",
         "actType": "Playing Piano",
         "props": "piano",
-        "artist":"",
-        "songType": "sung/played live",
+        "artist":"music",
+        "songType": "played live",
         "contact":   "Yu Wang ",
         "email":   "angelayuwang2@hotmail.com"
     },
@@ -140,7 +140,7 @@ var talentList = [
         "student":   "Reya Sinha, Anika Bijala",
         "teacher":   "Mr. Brennan, Mrs. Stephenson",
         "actType":   "Singing and Dancing",
-        "song":   "Backstage",
+        "song":   "Music Video (Backstage)",
         "artist":   "Denzel",
         "songType":   "whole song-not karaoke",
         "props":   "Two microphones",
@@ -150,7 +150,7 @@ var talentList = [
         "student":   "Jennavecia Simeone",
         "teacher": "Mr. Wheeler",
         "actType":   "singing",
-        "song":   " cheap thrills",
+        "song":   " Cheap Thrills",
         "props": "Mic and stand",
         "artist": "Sia",
         "songType": "karaoke",
@@ -173,7 +173,7 @@ var talentList = [
         "student":   "Tegan Heim & Abigail Lavenberg",
         "teacher":   "Mrs. Abruzzo",
         "actType":   "Dance and Gymnastics",
-        "song":   "That's What I Like (clean version)",
+        "song":   "That's What I Like",
         "artist":   "Bruno Mars",
         "songType": "whole song-stop at 1:05",
         "props":   " Rolling chair",
@@ -199,7 +199,7 @@ var talentList = [
         "teacher":   "Mr. Brennan",
         "actType":   "Playing Piano",
         "props": "piano",
-        "artist":"",
+        "artist": "Dvorak",
         "song":   "Sonatina in G major",
         "songType": "sung/played live",
         "contact":   "David Wayne",
@@ -231,17 +231,6 @@ var talentList = [
 
 
     {
-        "student":   "Sophia Istvan",
-        "teacher": "Mrs. McLaughlin, Mrs. Amadeo",
-        "actType": "Singing",
-        "song":   "Fight Song",
-        "songType": "karaoke",
-        "artist": "Rachel Platten",
-        "props":   "microphone stand",
-        "email": "funduval@gmail.com"
-    },
-
-    {
         "student":   "Lilah Baker",
         "actType":   "Dance",
         "song":   "Issues",
@@ -253,10 +242,10 @@ var talentList = [
     },
 
     {
-        "student":   "Nora Istvan",
-        "teacher": "Mr. Krygier",
+        "student":   "Nora Istvan, Sophia Istvan and Lena Unice",
+        "teacher": "Mr. Krygier, Mrs. McLaughlin, and Mrs. Williams",
         "actType": "Singing",
-        "song":   " Space Unicorn",
+        "song":   "Space Unicorn",
         "artist": "Parry Grip",
         "songType": "karaoke",
         "props":   "microphone stand",
@@ -282,7 +271,7 @@ var talentList = [
         "actType":   "Playing Piano",
         "songType": "sung/played live",
         "song":   " Minuet In G",
-        "artist":"",
+        "artist":"Bach",
         "email":   "joanna@jhoward.us",
         "props": "piano",
         "teacher":   "Mr. Wheeler",
@@ -293,7 +282,7 @@ var talentList = [
         "actType":   "Playing Piano",
         "songType": "sung/played live",
         "song":   "William Tell Overture",
-        "artist":"",
+        "artist":"Rossini",
         "props": "piano",
         "teacher":   "Mr. Wheeler",
         "email":   "joanna@jhoward.us"
@@ -301,10 +290,10 @@ var talentList = [
     },
 
     {
-        "student":   "Daniel Heras, Jorge Heras",
+        "student":   "Jorge Heras & Daniel Heras",
         "teacher":   " Mr. Brennan & Mrs. Auten",
         "actType":   "Singing",
-        "song":   "Below the Surface",
+        "song":   "Survive the Night & Below the Surface",
         "songType": "whole track w/vocals",
         "artist":   "Five Nights at Freddie's Sister Location",
         "props":   " custom wig, masks, box",
@@ -312,7 +301,6 @@ var talentList = [
         "email":   "evelyn.jdtruckrepair@gmail.com"
     },
 
-    
 
     
 
