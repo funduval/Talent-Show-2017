@@ -112,7 +112,7 @@ var talentList = [
     },
 
     {
-        "student":   "Brian Melzer, Anna Melzer, Elissa Schwartz, Stella Edelstein, Ariana Sottile, Brielle Melzer, Kendall Wheeler",
+        "student":   "Brian Melzer, Anna Melzer, Elissa Schwartz, Stella Edelstein, Ariana Sottile, Brielle Melzer & Kendall Wheeler",
         "teacher":   "various teachers",
         "actType":   "Singing",
         "song":   "Munchkinland and It's Possible",
@@ -137,7 +137,7 @@ var talentList = [
 
 
     {
-        "student":   "Reya Sinha, Anika Bijala",
+        "student":   "Reya Sinha & Anika Bijala",
         "teacher":   "Mr. Brennan, Mrs. Stephenson",
         "actType":   "Singing and Dancing",
         "song":   "Music Video (Backstage)",
@@ -242,7 +242,7 @@ var talentList = [
     },
 
     {
-        "student":   "Nora Istvan, Sophia Istvan and Lena Unice",
+        "student":   "Nora Istvan, Sophia Istvan & Lena Unice",
         "teacher": "Mr. Krygier, Mrs. McLaughlin, and Mrs. Williams",
         "actType": "Singing",
         "song":   "Space Unicorn",
