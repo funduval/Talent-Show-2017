@@ -4,7 +4,7 @@ var talentList = [
     {
         "student":   "The 3rd Grade Glee Club ",
         "email":   "mariella.trogani@montville.net",
-        "teacher": "Mariella Trogani and Various WM Studentss",
+        "teacher": "Mariella Trogani and Various WM Students",
         "props": "3 chairs on stage",
         "actType": "Choral",
         "songType": "self-provided track",
@@ -242,10 +242,10 @@ var talentList = [
 
     {
         "student":   "Nora Istvan, Sophia Istvan & Lena Unice",
-        "teacher": "Mr. Krygier, Mrs. McLaughlin, and Mrs. Williams",
+        "teacher": "Mr. Krygier, Mrs. McLaughlin, & Mrs. Williams",
         "actType": "Singing",
         "song":   "Space Unicorn",
-        "artist": "Parry Grip",
+        "artist": "Parry Gripp",
         "songType": "karaoke",
         "props":   "microphone stand",
         "email": "funduval@gmail.com"
