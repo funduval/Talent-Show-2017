@@ -4,7 +4,7 @@ var talentList = [
     {
         "student":   "The 3rd Grade Glee Club ",
         "email":   "mariella.trogani@montville.net",
-        "teacher": "Mariella Trogani and Various WM Teachers",
+        "teacher": "Mariella Trogani and Various WM Studentss",
         "props": "3 chairs on stage",
         "actType": "Choral",
         "songType": "self-provided track",
