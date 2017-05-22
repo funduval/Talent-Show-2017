@@ -41,7 +41,8 @@ var talentList = [
         "teacher":   "Mrs. Williams",
         "song":   "Star Wars theme",
         "props": "Piano",
-        "song":   "Russian sailors dance",
+        "artist":"",
+        "song":   "Russian Sailor's dance",
         "songType": "sung/played live",
         "actType":   "Playing Piano",
         "email":   "pastogirl@gmail.com"
@@ -52,6 +53,7 @@ var talentList = [
         "teacher":   "Mrs. Oberlin",
         "song":   "Firefly",
         "song":   "Treble A",
+        "artist":"",
         "props": "piano and mic",
         "songType": "sung/played live",
         "actType":   "Singing with Piano",
@@ -64,7 +66,7 @@ var talentList = [
         "teacher":   "Mr. Brennan",
         "actType":   "Hula Hoop",
         "song":   "Hula Hoop",
-        "artist": "(OMI)",
+        "artist": "OMI",
         "songType": "whole song",
         "props": "hula hoop",
         "email":   "anusphilip@gmail.com"
@@ -87,7 +89,8 @@ var talentList = [
         "student":   "Chase Eagan",
         "teacher":   "Mr. Krygier",
         "actType":   "Playing Piano",
-        "song":   " the spider dance",
+        "song":   " The Spider Dance",
+        "artist":"",
         "songType": "sung/played live",
         "props": "piano",
         "contact":   " Sue Eagan",
@@ -97,10 +100,11 @@ var talentList = [
     
 
     {
-        "student":   "Dylan hunter",
+        "student":   "Dylan Hunter",
         "teacher": "Mr. Krygier",
         "actType":   "Playing Violin",
         "song":   " Star-Spangled Banner",
+        "artist":"",
         "songType": "sung/played live",
         "props":   " music stand",
         "contact":   "Darlene hunter",
@@ -113,7 +117,7 @@ var talentList = [
         "actType":   "Singing",
         "song":   "Munchkinland and It's Possible",
         "songType": "provided by parents",
-        "artist":   "various artists",
+        "artist":   "Various Artists",
         "props":   " TBA",
         "contact":   "Margo Melzer",
         "email":   "margocmelzer@gmail.com, sharischwartz@lieberfarb.us, drtoniann555@aol.com, jessedelstein@gmail.com,tinawheeler35@yahoo.com"
@@ -125,6 +129,7 @@ var talentList = [
         "song":   "A Piano Song",
         "actType": "Playing Piano",
         "props": "piano",
+        "artist":"",
         "songType": "sung/played live",
         "contact":   "Yu Wang ",
         "email":   "angelayuwang2@hotmail.com"
@@ -194,7 +199,8 @@ var talentList = [
         "teacher":   "Mr. Brennan",
         "actType":   "Playing Piano",
         "props": "piano",
-        "song":   "sonatina in G major",
+        "artist":"",
+        "song":   "Sonatina in G major",
         "songType": "sung/played live",
         "contact":   "David Wayne",
         "email":   "Laura0@yahoo.com"
@@ -276,6 +282,7 @@ var talentList = [
         "actType":   "Playing Piano",
         "songType": "sung/played live",
         "song":   " Minuet In G",
+        "artist":"",
         "email":   "joanna@jhoward.us",
         "props": "piano",
         "teacher":   "Mr. Wheeler",
@@ -286,6 +293,7 @@ var talentList = [
         "actType":   "Playing Piano",
         "songType": "sung/played live",
         "song":   "William Tell Overture",
+        "artist":"",
         "props": "piano",
         "teacher":   "Mr. Wheeler",
         "email":   "joanna@jhoward.us"
@@ -298,7 +306,7 @@ var talentList = [
         "actType":   "Singing",
         "song":   "Below the Surface",
         "songType": "whole track w/vocals",
-        "artist":   "FNAF sister location",
+        "artist":   "Five Nights at Freddie's Sister Location",
         "props":   " custom wig, masks, box",
         "contact":   "Evelyn Heras",
         "email":   "evelyn.jdtruckrepair@gmail.com"
@@ -323,7 +331,7 @@ for (var i = 0; i < talentList.length; i++) {
 
 
 
-    text.append(talentList[i].student.toUpperCase() + ";   " + talentList[i].teacher + ";   " + talentList[i].actType + ";   " + talentList[i].song + " - " + talentList[i].songType + ";   " + "PROPS: " + talentList[i].props);
+    text.append((i+1) + " - " + talentList[i].student.toUpperCase() + " - " + talentList[i].teacher + " - " + talentList[i].actType + " - " + talentList[i].song + " by " + talentList[i].artist);
 
 
 
@@ -336,3 +344,4 @@ for (var i = 0; i < talentList.length; i++) {
     mailField.append(talentList[i].email + ",");
 
 }
+
